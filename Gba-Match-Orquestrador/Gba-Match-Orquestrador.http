@@ -1,0 +1,6 @@
+@Gba_Match_Orquestrador_HostAddress = http://localhost:5172
+
+GET {{Gba_Match_Orquestrador_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
